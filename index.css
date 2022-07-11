@@ -109,3 +109,7 @@ img {
     display: flex;
     justify-content: center;
 }
+
+.floating {
+    max-width: 70px;
+}
